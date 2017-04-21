@@ -1,1 +1,1 @@
-branch_fromSubtree / 부모쪽에서 바꿔보기
+서브트리의 다른 브랜치 이니라
